@@ -5,9 +5,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/cherish_garnet.mk
+    $(LOCAL_DIR)/lineage_garnet.mk
 
 COMMON_LUNCH_CHOICES := \
-    cherish_garnet-ap1a-user \
-    cherish_garnet-ap1a-userdebug \
-    cherish_garnet-ap1a-eng
+    lineage_garnet-ap1a-user \
+    lineage_garnet-ap1a-userdebug \
+    lineage_garnet-ap1a-eng
